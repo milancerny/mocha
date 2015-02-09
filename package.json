@@ -53,6 +53,7 @@
   },
   "devDependencies": {
     "coffee-script": "~1.8.0",
+    "jshint": "^2.6.0",
     "should": "~4.0.0"
   },
   "files": [
